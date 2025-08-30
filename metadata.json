@@ -1,0 +1,5 @@
+{
+  "name": "Valorant Attendance Bot Simulator",
+  "description": "A web-based simulator for a smart Discord bot designed for Valorant teams to manage scrim and grinding attendance. It tracks player availability, handles reasons for absences, and uses majority logic to decide whether the team should play or take leave, generating a report with AI-powered summaries.",
+  "requestFramePermissions": []
+}
